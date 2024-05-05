@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.eventsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.images {
+  height: 100px;
+  width: 150px;
+}
